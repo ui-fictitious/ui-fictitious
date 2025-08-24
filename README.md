@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Kumar Shivam  
+*Science Undergrad | Aspiring Astrophysicist*  
 
-<!--
-**ui-fictitious/ui-fictitious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Topics of Interest:** Cosmology & Astrophysics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Currently Working On
+- CS50P: Introduction to Programming with Python  
+- CS50AI: Introduction to Artificial Intelligence with Python  
+- Differential Equations (Mathematics)  
+- Particle Physics (SWAYAM Course)  
+
+---
+
+## 🚀 Projects
+- **Exoplanet Transit Data Analysis** → [github.com/ui-fictitious/exoplanet-transit](https://github.com/ui-fictitious/exoplanet-transit)  
+- **Computational Physics Simulation** → [github.com/ui-fictitious/computational-physics-sim](https://github.com/ui-fictitious/computational-physics-sim)  
+
+---
+
+## 🌐 Connect with Me
+- [GitHub](https://github.com/ui-fictitious)  
+- [LinkedIn](https://www.linkedin.com/in/aboylostinthecosmos)  
